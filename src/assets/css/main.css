@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "alef";
+  src: url("../fonts/Alef-Regular.ttf");
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  color: #1d1d1d;
+  font-family: "alef";
+}
+
+body {
+  margin: 0 auto;
+  min-height: 100vh;
+}
+
+img {
+  object-fit: contain;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+.dir-rtl {
+  direction: rtl;
+}
+
+.min-width-224 {
+  min-width: 224px;
+}

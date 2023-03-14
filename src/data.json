@@ -1,0 +1,358 @@
+{
+  "success": true,
+  "items": 28,
+  "data": [
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "63839216ab5daa10dd55b8c9",
+      "name": "סופגניית מרשמלו",
+      "price": 12,
+      "times": {
+        "availableDaysOfWeek": [1],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a0d039d2900c3b7c40f",
+      "description": "מגיע עם מתבל לבחירה",
+      "id": "6383a3e3ab5daa10dd55ba4e",
+      "name": "מארז 10 לביבות תפוחי אדמה עם מטבל",
+      "price": 90,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a0d039d2900c3b7c40f",
+      "description": "",
+      "id": "6383a435ab5daa10dd55ba55",
+      "name": "מארז 10 לביבות זוקיני עם מטבל",
+      "price": 90,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [
+          {
+            "date": "2023-03-10T06:33:58.591Z"
+          },
+          {
+            "date": "2023-03-15T06:33:58.591Z"
+          },
+          {
+            "date": "2023-03-19T06:33:58.591Z"
+          },
+          {
+            "date": "2023-03-03T06:33:58.591Z"
+          },
+          {
+            "date": "2023-03-24T06:33:58.591Z"
+          }
+        ],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a0d039d2900c3b7c40f",
+      "description": "",
+      "id": "6383a4a9ab5daa10dd55ba64",
+      "name": "מארז 10 לביבות מיקס עם מטבל",
+      "price": 90,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 1
+      }
+    },
+    {
+      "category": "63836a0d039d2900c3b7c40f",
+      "description": "",
+      "id": "6383a518ab5daa10dd55ba6d",
+      "name": "צזיקי יוגורט",
+      "price": 25,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 1
+      }
+    },
+    {
+      "category": "63836a0d039d2900c3b7c40f",
+      "description": "",
+      "id": "6383a866ab5daa10dd55ba80",
+      "name": "שמנת סלמון ",
+      "price": 29,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 2
+      }
+    },
+    {
+      "category": "63836a0d039d2900c3b7c40f",
+      "description": "",
+      "id": "6383abc0ab5daa10dd55ba87",
+      "name": "שמנת חמוצה",
+      "price": 12,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 2
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "63838e3fab5daa10dd55b8a6",
+      "name": "סופגניית פופקורן קרמל",
+      "price": 12,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "6383927cab5daa10dd55b8d0",
+      "name": "סופגניית פיסטוק",
+      "price": 14,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "63838f0dab5daa10dd55b8b4",
+      "name": "סופגניית יומהולדת",
+      "price": 10,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "63838db2ab5daa10dd55b890",
+      "name": "סופגניית ריבת תות קלאסית",
+      "price": 6,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "63838ecaab5daa10dd55b8ad",
+      "name": "סופגניית אוריאו",
+      "price": 12,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "638392d0ab5daa10dd55b8d7",
+      "name": "סופגניית P&J",
+      "price": 12,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "63839112ab5daa10dd55b8bb",
+      "name": "סופגניית ריבה מסוכרת",
+      "price": 7,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "63839fadab5daa10dd55b9e5",
+      "name": "סופגניית ריבת חלב",
+      "price": 12,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "638391b7ab5daa10dd55b8c2",
+      "name": "סופגניית מרנג לימון",
+      "price": 12,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "63839330ab5daa10dd55b8de",
+      "name": "סופגניית REESES",
+      "price": 12,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "63838d1bab5daa10dd55b87b",
+      "name": "סופגניה ריקה",
+      "price": 6,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "6383959fab5daa10dd55b901",
+      "name": "מארז 9 סופגניות מיקס המלצת הבייקרי",
+      "price": 99,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "638395f8ab5daa10dd55b908",
+      "name": "מארז 12 סופגניות מיקס המלצת הבייקרי",
+      "price": 140,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "63839c2dab5daa10dd55b90f",
+      "name": "מארז 20 סופגניות מיקס המלצת הבייקרי",
+      "price": 230,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "6383a235ab5daa10dd55b9fc",
+      "name": "מארז 4 דונאטס",
+      "price": 42,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "6383a1cdab5daa10dd55b9f5",
+      "name": "דונאטס קרם אגוזים",
+      "price": 11,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "63839e7dab5daa10dd55b9de",
+      "name": "דונאטס שוקולד",
+      "price": 11,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "6383a18bab5daa10dd55b9ee",
+      "name": "דונאטס וניל",
+      "price": 11,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "639d6d6076b1513aba03c1a1",
+      "name": "מארז 9 סופגניות רק ריבה",
+      "price": 54,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "639d6e1576b1513aba03c1d0",
+      "name": "מארז 12 סופגניות רק ריבה",
+      "price": 72,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    },
+    {
+      "category": "63836a06039d2900c3b7c40c",
+      "description": "",
+      "id": "639d6e6276b1513aba03c1d7",
+      "name": "מארז 20 סופגניות רק ריבה",
+      "price": 120,
+      "times": {
+        "availableDaysOfWeek": [1, 2, 3, 4, 5, 6, 7],
+        "excludeDates": [],
+        "makeDays": 0
+      }
+    }
+  ]
+}
