@@ -1,6 +1,6 @@
 import { createApp } from "vue";
 import { createPinia } from "pinia";
-/* import the fontawesome */
+/* import fontawesome */
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 import { faUserSecret, faCartShopping, faTrash } from "@fortawesome/free-solid-svg-icons";
